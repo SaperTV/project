@@ -1,0 +1,5 @@
+C:\Users\krzyl\Desktop\2Rok-main\RPG_game\RPG_game\RPG_game\obj\Debug\RPG_game.csproj.AssemblyReference.cache
+C:\Users\krzyl\Desktop\2Rok-main\RPG_game\RPG_game\RPG_game\obj\Debug\RPG_game.csproj.SuggestedBindingRedirects.cache
+C:\Users\krzyl\Desktop\2Rok-main\RPG_game\RPG_game\RPG_game\obj\Debug\RPG_game.csproj.CoreCompileInputs.cache
+C:\Users\krzyl\Desktop\2Rok-main\RPG_game\RPG_game\RPG_game\obj\Debug\RPG_game.exe
+C:\Users\krzyl\Desktop\2Rok-main\RPG_game\RPG_game\RPG_game\obj\Debug\RPG_game.pdb
